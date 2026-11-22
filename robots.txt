@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jerrinez.github.io/sitemap.xml
+Sitemap: https://jiayinzhang1105.github.io/JerrineZ.github.io/sitemap.xml
